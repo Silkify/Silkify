@@ -32,6 +32,7 @@ I am a passionate data scientist dedicated to uncovering valuable insights from 
 
 ### Top Languages
 ![Silkify's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silkify&layout=compact&theme=dracula)
+
 ---
 
 ## 📫 Connect with Me
