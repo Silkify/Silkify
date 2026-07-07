@@ -26,7 +26,7 @@ I am a passionate data scientist dedicated to uncovering valuable insights from 
 * **ECG & Biosignals:** Skilled in preprocessing, cropping, and classification modeling for electrocardiogram (ECG) data.
 * **Time-Series & Vital Signs:** Adept at managing longitudinal patient data and continuous vital sign trajectories for prognosis prediction.
 * **Tabular & Heterogeneous Data:** Proficient in processing diverse clinical features and complex tabular structures.
-* **Competition Datasets:** Experienced in benchmarking models and solving diverse data challenges through machine learning competitions.
+* **Competition Datasets:** Experienced in developing predictive models focused on addressing real-world issues and solving diverse data-driven challenges.
 
 ### 🚀 Core Frameworks & Workflows
 * **Deep Learning & Modeling:** `PyTorch` (Designing custom architectures and attention mechanisms)
