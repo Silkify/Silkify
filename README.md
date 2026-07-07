@@ -18,17 +18,24 @@ I am a passionate data scientist dedicated to uncovering valuable insights from 
 
 ---
 
-## 🛠️ Tech Stacks & Tools
+## 🛠️ Data & Tech Stacks
 
-### Languages & Core Frameworks
-* **Languages:** `Python`, `R`, `SQL`
-* **Deep Learning:** `PyTorch`
-* **Data Science:** `Pandas`, `NumPy`, `Scikit-Learn`, `SciPy`
+### 📊 Data Domains & Experience
+* **Statistical Inference & Causal Inference:** Experienced in applying rigorous statistical methods and causal inference frameworks to uncover true baseline relationships and minimize confounding bias in observational data.
+* **Multi-Center Clinical Cohorts:** Experienced in handling large-scale, multi-center clinical datasets while maintaining strict data quality standards.
+* **ECG & Biosignals:** Skilled in preprocessing, cropping, and classification modeling for electrocardiogram (ECG) data.
+* **Time-Series & Vital Signs:** Adept at managing longitudinal patient data and continuous vital sign trajectories for prognosis prediction.
+* **Tabular & Heterogeneous Data:** Proficient in processing diverse clinical features and complex tabular structures.
+* **Competition Datasets:** Experienced in benchmarking models and solving diverse data challenges through machine learning competitions.
 
-### Specialized Workflow
-* **Imputation & Processing:** `MICE (Multivariate Imputation by Chained Equations)`, Custom Signal Processing pipelines
-* **Visualization:** `Matplotlib`, `Seaborn`, Statistical Nomograms & Calibration Plots
-* **Progress Tracking:** `tqdm` (Essential for efficient pipeline monitoring)
+### 🚀 Core Frameworks & Workflows
+* **Deep Learning & Modeling:** `PyTorch` (Designing custom architectures and attention mechanisms)
+* **Data Science & Imputation:** `Pandas` | `NumPy` | `Scikit-Learn` | `MICE` (Advanced missing value imputation)
+* **Progress Monitoring:** `tqdm` (Extensively used for reliable pipeline and loop tracking)
+
+### 🌱 Future Learning Roadmap
+* **Advanced SQL:** Enhancing database querying skills to build more robust and scalable data pipelines for large-scale enterprise data.
+* **Large Language Models (LLMs):** Studying LLM architectures and prompt engineering to explore the integration of generative AI with multimodal clinical data.
 
 ---
 
