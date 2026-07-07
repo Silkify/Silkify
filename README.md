@@ -5,7 +5,7 @@ I am a passionate data scientist dedicated to uncovering valuable insights from 
 ---
 
 ## 🔬 Research & Data Philosophy
-* **Data-Centric Approach:** I firmly believe that "high-quality data trumps complex algorithms." I strictly prioritize rigorous data preprocessing and cleansing, choosing to discard compromised or noisy samples to build the cleanest possible foundational datasets.
+* **Data-Centric Statistical Approach:** I believe that robust statistical inference begins with pristine data. I strictly prioritize rigorous preprocessing and cleansing, systematically discarding noisy or statistically unreliable samples to ensure the integrity of the foundational dataset and minimize model bias..
 * **Rigorous Validation:** Beyond standard performance metrics, I emphasize comprehensive model validation—incorporating calibration curves and clinical utility analysis to ensure true stability and practical value.
 * **Time-Series & Signal Modeling:** Experienced in handling intricate data pipelines, missing value imputations, and advanced deep learning architectures for predictive modeling.
 
