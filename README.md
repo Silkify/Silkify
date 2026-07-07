@@ -34,5 +34,5 @@ I am a passionate data scientist dedicated to uncovering valuable insights from 
 
 ## 📫 Connect with Me
 * **GitHub:** [github.com/Silkify](https://github.com/Silkify)
-* **Email:** *your.email@example.com*
-* **LinkedIn:** *[Your Name](https://linkedin.com/in/your-profile)*
+* **Email:** Maybe later 
+* **LinkedIn:** *Maybe later*
