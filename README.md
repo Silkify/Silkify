@@ -30,8 +30,7 @@ I am a passionate data scientist dedicated to uncovering valuable insights from 
 
 ### 🚀 Core Frameworks & Workflows
 * **Deep Learning & Modeling:** `PyTorch` (Designing custom architectures and attention mechanisms)
-* **Data Science & Imputation:** `Pandas` | `NumPy` | `Scikit-Learn` | `MICE` (Advanced missing value imputation)
-* **Progress Monitoring:** `tqdm` (Extensively used for reliable pipeline and loop tracking)
+* **Data Science & Imputation:** `Pandas` | `NumPy` | `Scikit-Learn` | `MICE` | `seaborn` | `plotnine` | `matplotlib` | `p-value`
 
 ### 🌱 Future Learning Roadmap
 * **Advanced SQL:** Enhancing database querying skills to build more robust and scalable data pipelines for large-scale enterprise data.
