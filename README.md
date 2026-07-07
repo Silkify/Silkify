@@ -27,9 +27,11 @@ I am a passionate data scientist dedicated to uncovering valuable insights from 
 
 ## 📊 GitHub Analytics
 
-* **Profile Stats:** `![Silkify's Stats](https://github-readme-stats.vercel.app/api?username=Silkify&show_icons=true&theme=dracula&count_private=true)`
-* **Top Languages:** `![Silkify's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silkify&layout=compact&theme=dracula)`
+### Profile Stats
+![Silkify's Stats](https://github-readme-stats.vercel.app/api?username=Silkify&show_icons=true&theme=dracula&count_private=true)
 
+### Top Languages
+![Silkify's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silkify&layout=compact&theme=dracula)
 ---
 
 ## 📫 Connect with Me
